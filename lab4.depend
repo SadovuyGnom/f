@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1666723054 source:c:\users\neste\3laba\lab4\main.cpp
+	"histogram.h"
+	"svg.h"
+	<curl/curl.h>
+	<sstream>
+
+1666701452 c:\users\neste\3laba\lab4\histogram.h
+	<vector>
+	<iostream>
+
+1666700399 c:\users\neste\3laba\lab4\svg.h
+	<vector>
+	<string>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1666698535 c:\users\neste\3laba\lab4\test.h
+	<cassert>
+	"histogram.h"
+	"svg.h"
+
+1661865562 c:\users\neste\3laba\lab4\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"typecheck-gcc.h"
+
+1661915422 c:\users\neste\3laba\lab4\curl\include\curl\curlver.h
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\easy.h
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\multi.h
+	"curl.h"
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\urlapi.h
+	"curl.h"
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\options.h
+
+1660631466 c:\users\neste\3laba\lab4\curl\include\curl\header.h
+
+1661864582 c:\users\neste\3laba\lab4\curl\include\curl\typecheck-gcc.h
+
+1666699827 source:c:\users\neste\3laba\lab4\histogram.cpp
+	"histogram.h"
+
+1666708778 source:c:\users\neste\3laba\lab4\svg.cpp
+	"svg.h"
+
