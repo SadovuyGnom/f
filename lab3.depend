@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1666630793 source:c:\users\neste\3laba\lab3\histogram.cpp
+	<math.h>
+	<iostream>
+	<conio.h>
+	<vector>
+	"histogram.h"
+
+1666630810 c:\users\neste\3laba\lab3\histogram.h
+	<vector>
+	<iostream>
+
+1666629214 source:c:\users\neste\3laba\lab3\svg.cpp
+	<math.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<vector>
+	<string>
+	"svg.h"
+
+1666629214 c:\users\neste\3laba\lab3\svg.h
+	<vector>
+	<math.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+
+1666631312 source:c:\users\neste\3laba\lab3\test.cpp
+	"histogram.h"
+	"svg.h"
+	<cassert>
+	<math.h>
+	<iostream>
+	"test.h"
+
+1666630406 c:\users\neste\3laba\lab3\test.h
+	"histogram.h"
+	"svg.h"
+	<cassert>
+	<math.h>
+	<iostream>
+
+1666784470 source:c:\users\neste\3laba\lab3\main.cpp
+	<math.h>
+	<iostream>
+	<conio.h>
+	<vector>
+	"histogram.h"
+	"svg.h"
+
